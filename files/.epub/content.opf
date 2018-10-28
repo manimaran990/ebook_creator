@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>FreeTamilEbooks.com</dc:publisher>
+    <dc:language>ta</dc:language>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">அறிஞர் அண்ணா</dc:creator>
+    <meta name="calibre:timestamp" content="2018-10-28T11:36:58.664726+00:00"/>
+    <dc:title>தசாவதாரம்</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:contributor opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ce3ffb82-418d-4c2f-abe3-ea0d50c6e83d</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Pictures/10000000000000DC0000013763233EA4D5704E3E.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="index.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="Pictures/10000000000000DC0000013763233EA4D5704E3E.jpg" title="Cover" type="cover"/>
+  </guide>
+</package>

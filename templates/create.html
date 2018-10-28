@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1>ODT to ebooks creator</h1>
+    </head>
+    <body>
+        <ul>
+        {% for k,v in datadict.items() %}
+            <li>{{ k }} : {{ v }}</li>
+        {% endfor %}
+        </ul>
+    </body>
+    
+    <a href="new">Edit</a><br>
+    <form  action="create/epub/{{ datadict.get("_id",0) }}" method="POST">
+        <button>Create EPUB</button>
+    </form><br>
+    
+    <form  action="create/mobi/{{ datadict.get("_id",0) }}" method="POST">
+        <button>Create mobi</button>
+    </form>
+</html>

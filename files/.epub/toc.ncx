@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="Tamil">
+  <head>
+    <meta content="ce3ffb82-418d-4c2f-abe3-ea0d50c6e83d" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (1.25.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>தசாவதாரம்</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ude68dd0c-000e-4c83-bac5-0623c815f069" playOrder="1">
+      <navLabel>
+        <text>பொருளடக்கம்</text>
+      </navLabel>
+      <content src="index.xhtml#calibre_toc_2"/>
+    </navPoint>
+    <navPoint id="u41c42731-d32c-4231-8b12-fc9a67ae898b" playOrder="2">
+      <navLabel>
+        <text>ஆன்டன் செக்கோவ்</text>
+      </navLabel>
+      <content src="index.xhtml#calibre_toc_3"/>
+      <navPoint id="ua1df1074-e971-4a23-9d7d-ba15a7979a80" playOrder="3">
+        <navLabel>
+          <text>இளமைக்காலம்</text>
+        </navLabel>
+        <content src="index.xhtml#calibre_toc_4"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
