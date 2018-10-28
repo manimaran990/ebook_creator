@@ -77,6 +77,6 @@ def command(format=None,id=None):
 
 
 if __name__ == '__main__':
-    app.run(host=os.getenv('IP', 'localhost'),port=int(os.getenv('PORT', 5000)),debug=True)
+    app.run(port='5002')
     
     
